@@ -69,10 +69,10 @@
     "vue-i18n-extensions": "^0.2.1"
   },
   "devDependencies": {
-    "@babel/core": "7.7.4",
+    "@babel/core": "7.7.5",
     "@babel/plugin-syntax-dynamic-import": "7.7.4",
-    "@babel/preset-env": "7.7.4",
-    "@babel/runtime": "7.7.4",
+    "@babel/preset-env": "7.7.6",
+    "@babel/runtime": "7.7.6",
     "@nuxt/types": "0.5.3",
     "@nuxtjs/module-test-utils": "1.5.0",
     "@types/jest": "24.0.23",
@@ -97,7 +97,7 @@
     "selenium-webdriver": "4.0.0-alpha.5",
     "standard-version": "7.0.1",
     "tib": "0.7.4",
-    "typescript": "3.7.2",
+    "typescript": "3.7.3",
     "vuepress": "1.2.0"
   }
 }
